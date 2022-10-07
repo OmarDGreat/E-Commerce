@@ -6,7 +6,8 @@
     "sequelize": "^6.24.0"
   },
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "seed": "node seeds/index.js"
   },
   "name": "e-commerce",
   "description": "Creating a backend for E-Commerce",
