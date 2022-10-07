@@ -4,5 +4,23 @@
     "init": "^0.1.2",
     "mysql2": "^2.3.3",
     "sequelize": "^6.24.0"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "e-commerce",
+  "description": "Creating a backend for E-Commerce",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OmarDGreat/E-Commerce.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OmarDGreat/E-Commerce/issues"
+  },
+  "homepage": "https://github.com/OmarDGreat/E-Commerce#readme"
 }
